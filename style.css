@@ -212,8 +212,6 @@ body{
         .footer-container{
             display: block;
             position:relative;
-            /* width:1200px;
-            max-width:100%; */
             padding:20px;
         }
             .row{
